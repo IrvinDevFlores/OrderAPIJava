@@ -1,0 +1,6 @@
+Install Eclipse
+install Spring Boot Tools
+Eliminar dependencias innecesarias del xml
+Configurar las clases con las anotaciones
+Actualizar el archivo de configuration  SpringBootApplication.properties que esta en resources
+-->>>>spring.autoconfigure.exclude=org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
